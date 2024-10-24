@@ -38,6 +38,7 @@ public class soapmod {
         if(event.getTabKey() == CreativeModeTabs.COMBAT){
             event.accept(ModItems.SOAP);
             event.accept(ModItems.FAT);
+            event.accept(ModItems.MINTSOAP);
         }
     }
 

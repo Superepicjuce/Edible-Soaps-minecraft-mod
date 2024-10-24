@@ -7,4 +7,6 @@ import net.minecraft.world.food.FoodProperties;
 public class ModFoods {
     public static final FoodProperties SOAP = new FoodProperties.Builder().alwaysEat().nutrition(2024)
             .saturationMod(20f).effect(() -> new MobEffectInstance(MobEffects.POISON, 900), 0.5f).build();
+    public static final FoodProperties MINTSOAP = new FoodProperties.Builder().alwaysEat().nutrition(2024)
+            .saturationMod(20f).effect(() -> new MobEffectInstance(MobEffects.INVISIBILITY, 1200), 0.9f).build();
 }

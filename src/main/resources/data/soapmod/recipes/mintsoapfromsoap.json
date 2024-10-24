@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "kr ",
+    "sl ",
+    "   "
+  ],
+  "key": {
+    "k": {
+      "item": "minecraft:kelp"
+    },
+    "r": {
+      "item": "minecraft:kelp"
+    },
+    "s": {
+      "item": "minecraft:sugar"
+    },
+    "l": {
+      "item": "soapmod:soap"
+    }
+  },
+  "result": {
+    "item": "soapmod:mintsoap",
+    "count": 2
+  }
+}
