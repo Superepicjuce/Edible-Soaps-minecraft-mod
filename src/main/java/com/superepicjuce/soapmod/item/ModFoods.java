@@ -9,4 +9,6 @@ public class ModFoods {
             .saturationMod(20f).effect(() -> new MobEffectInstance(MobEffects.POISON, 900), 0.5f).build();
     public static final FoodProperties MINTSOAP = new FoodProperties.Builder().alwaysEat().nutrition(2024)
             .saturationMod(20f).effect(() -> new MobEffectInstance(MobEffects.INVISIBILITY, 1200), 0.9f).build();
+    public static final FoodProperties FIRESOAP = new FoodProperties.Builder().alwaysEat().nutrition(2024)
+            .saturationMod(20f).effect(() -> new MobEffectInstance(MobEffects.FIRE_RESISTANCE, 1200), 0.9f).build();
 }

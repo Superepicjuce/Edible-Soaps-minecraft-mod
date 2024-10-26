@@ -1,5 +1,7 @@
 {
   "item.soapmod.soap": "Soap",
   "item.soapmod.fat": "Animal Fat",
-  "item.soapmod.mintsoap": "Mint Soap"
+  "item.soapmod.mintsoap": "Mint Soap",
+  "item.soapmod.firesoap": "Fire Soap",
+  "creativetab.soapmod_tab": "Soapmod"
 }

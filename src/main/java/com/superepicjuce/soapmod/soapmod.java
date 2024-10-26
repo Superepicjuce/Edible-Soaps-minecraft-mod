@@ -1,6 +1,7 @@
 package net.superepicjuce.soapmod;
 
 import com.mojang.logging.LogUtils;
+import com.superepicjuce.soapmod.item.ModCreativeModeTabs;
 import com.superepicjuce.soapmod.item.ModItems;
 import net.minecraft.world.item.CreativeModeTabs;
 import net.minecraftforge.api.distmarker.Dist;
@@ -25,7 +26,7 @@ public class soapmod {
         IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
         ModItems.register(modEventBus);
         modEventBus.addListener(this::commonSetup);
-
+        ModCreativeModeTabs.register(modEventBus);
         MinecraftForge.EVENT_BUS.register(this);
         modEventBus.addListener(this::addCreative);
     }
@@ -35,10 +36,11 @@ public class soapmod {
 
     // Add the example block item to the building blocks tab
     private void addCreative(BuildCreativeModeTabContentsEvent event) {
-        if(event.getTabKey() == CreativeModeTabs.COMBAT){
+        if(event.getTabKey() == CreativeModeTabs.SEARCH){
             event.accept(ModItems.SOAP);
             event.accept(ModItems.FAT);
             event.accept(ModItems.MINTSOAP);
+            event.accept(ModItems.FIRESOAP);
         }
     }
 

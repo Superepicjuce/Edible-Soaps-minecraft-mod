@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "count": 1,
+  "ingredients": [
+    {
+      "item":"soapmod:soap"
+    },
+    {
+      "item":"minecraft:blaze_powder"
+    }
+
+  ],
+
+
+
+
+  "result": {
+    "item": "soapmod:firesoap",
+    "count": 1
+  }
+}
+
