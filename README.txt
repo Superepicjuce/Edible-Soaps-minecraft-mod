@@ -1,3 +1,9 @@
+Made with IntelliJ IDEA,
+I'll upload builds every 3 updates, otherwise compile it yourself buddy (or just ask for a version)
+
+
+
+
 
 Source installation information for modders
 -------------------------------------------
