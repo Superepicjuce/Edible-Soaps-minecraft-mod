@@ -1,5 +1,5 @@
 Made with IntelliJ IDEA,
-I'll upload builds every 3 updates, otherwise compile it yourself buddy (or just ask for a version).
+I'll upload builds every  update, releases every major update (4 new soaps/ direct changes)
 Credit:
 Java: Superepicjuce
 Item textures: redpanda96
