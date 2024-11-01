@@ -23,7 +23,7 @@ public class ModCreativeModeTabs {
                         pOutput.accept(ModItems.FAT.get());
                         pOutput.accept(ModItems.FIRESOAP.get());
                         pOutput.accept(ModItems.MINTSOAP.get());
-
+                        pOutput.accept(ModItems.SUSSOAP.get());
                         pOutput.accept(Items.COOKED_PORKCHOP);
 
 

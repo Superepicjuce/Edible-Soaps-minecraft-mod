@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "count": 1,
+  "ingredients": [
+    {
+      "item":"soapmod:soap"
+    },
+    {
+      "item":"minecraft:diamond"
+    },
+    {
+      "item":"minecraft:amethyst_shard"
+    }
+  ],
+
+
+
+
+  "result": {
+    "item": "soapmod:sussoap",
+    "count": 1
+  }
+}

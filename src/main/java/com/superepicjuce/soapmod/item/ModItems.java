@@ -20,6 +20,8 @@ public class ModItems {
             () -> new Item(new Item.Properties().food(ModFoods.MINTSOAP)));
     public static final RegistryObject<Item> FIRESOAP = ITEMS.register("firesoap",
             () -> new Item(new Item.Properties().food(ModFoods.FIRESOAP)));
+    public static final RegistryObject<Item> SUSSOAP = ITEMS.register("sussoap",
+            () -> new Item(new Item.Properties().food(ModFoods.SUSSOAP)));
 
 
     public static void register(IEventBus eventBus){
