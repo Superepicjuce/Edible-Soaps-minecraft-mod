@@ -1,5 +1,5 @@
-Made with IntelliJ IDEA,
-I'll upload builds every  update, releases every major update (4 new soaps/ direct changes)
+Made with IntelliJ IDEA (JetBrains IDE),
+I'll upload beta builds every  update, releases every major update (every other change, every change will be added to beta builds)
 Credit:
 Java: Superepicjuce
 Item textures: redpanda96
