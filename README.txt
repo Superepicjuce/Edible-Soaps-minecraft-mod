@@ -3,7 +3,7 @@ I'll upload beta builds every  update, releases every major update (every other 
 Credit:
 Java: Superepicjuce
 Item textures: redpanda96
-
+Original soap design: PixelDonutofCanada91
 
 
 
