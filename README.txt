@@ -6,6 +6,12 @@ Item textures: redpanda96
 Original soap design: PixelDonutofCanada91
 
 
+oh and i'm a novice.
+
+
+
+
+--------Below is generic stuff that im too lazy to delete---------------
 
 
 Source installation information for modders
