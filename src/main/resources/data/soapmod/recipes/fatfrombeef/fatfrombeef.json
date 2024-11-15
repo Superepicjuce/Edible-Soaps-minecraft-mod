@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "count": 1,
+  "ingredient": {
+    "item": "minecraft:cooked_beef"
+  },
+  "result": "soapmod:fat"
+
+
+}

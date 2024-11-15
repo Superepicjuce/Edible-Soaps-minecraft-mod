@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smoking",
+  "count": 1,
+  "ingredient": {
+    "item": "minecraft:cooked_beef"
+  },
+  "result": "soapmod:fat",
+  "experience": 10,
+  "cookingtime": 1
+
+}

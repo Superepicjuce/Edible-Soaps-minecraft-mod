@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+
+  "ingredients":[
+    {
+      "item": "soapmod:fat"
+    },
+    {
+      "item": "minecraft:stick"
+    }
+
+  ],
+  "result":{
+    "item":"soapmod:soap",
+    "count": 1
+  }
+
+}
